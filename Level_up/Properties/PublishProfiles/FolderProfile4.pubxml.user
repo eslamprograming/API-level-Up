@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>http://localhost:8484</_PublishTargetUrl>
+    <History>False|2023-02-26T07:13:52.6363727Z;False|2023-02-26T09:12:42.1215130+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
